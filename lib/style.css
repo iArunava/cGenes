@@ -1,0 +1,24 @@
+.pogene {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.ogene {
+    height: 10px;
+    width: 16px;
+    display: inline-block;
+}
+
+#id--left {
+    float: left;
+    min-width: 50%;
+}
+
+#id--right {
+    float: right;
+    min-width: 50%;
+}
+
+#id--population {
+    display: inherit;
+}
