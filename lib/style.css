@@ -2,7 +2,8 @@
     transition: 0.3s ease-in;
 }
 
-#id--fittest-gene, #id--target-gene, #id--sliders {
+#id--fittest-gene, #id--target-gene,
+#id--sliders, #id--evolution-controls, #id--info {
     margin: 0 auto;
     padding: 22px 22px;
 }
